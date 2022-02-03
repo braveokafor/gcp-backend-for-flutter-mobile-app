@@ -61,7 +61,7 @@
 
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     <img src="./icons/sripe.png" width="50px" />       | `Stripe Firebase SDK`|  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|     <img src="./icons/stripe.png" width="50px" />       | `Stripe Firebase SDK`|  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 <br/>
 
