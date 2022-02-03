@@ -18,7 +18,7 @@
 <br/>
 
 
-#### 📔 User Profile Management
+#### 🙎‍♀️ User Profile Management
 
 |                                                        |       Service     |                  Rationale                                                                                                                                                                           |
 | ------------------------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,10 +30,9 @@
 
 #### 💵 Payments
 
-|                                                        |        Service       |                  Rationale                                                                                                                                                                                                           |
+|                                                        |        Service       |                  Rationale                                                                                                                                                                                                             |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     <img src="./icons/stripe.png" width="50px" />      | `Stripe Firebase SDK`|  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
-
+|     <img src="./icons/stripe.png" width="50px" />      | `Stripe Firebase SDK`|  [Stripe Firebase SDK](https://firebase.google.com/products/extensions/stripe-firestore-stripe-payments) enables users to sign-up for your digital goods and paid content with Stripe Checkout and manage their subscriptions with the Stripe customer portal. It syncs customers' subscription status with your Cloud Firestore and adds custom claims using Firebase Authentication for convenient access control in your application. |
 <br/>
 
 
