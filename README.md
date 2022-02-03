@@ -9,9 +9,6 @@
 
 ## <p align="center">🏗 Services Used</p>
 
-<br/>
-<hr/>
-
 #### 🤚 Authentication
 
 |                                                        |        Service       |                  Rationale                                                                                                                                                                                                         |
