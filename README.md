@@ -38,14 +38,11 @@
 
 ## <p align="center"> 📄 Details</p>
 
-##### 🛠 Services Used
+#### 🤚 Authentication
 
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/Data-Factory.svg" width="50px" />   | `Azure Data Factory` |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
-|  <img src="./icons/IoT-Hub.svg" width="50px" />        |       `IOT Hub`      |  [Azure IOT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) is Microsoft's Internet of Things connector to the cloud.                                                                                                        |
-|  <img src="./icons/Logic-Apps.svg" width="50px" />     |     `Logic Apps`     |  [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview) is a cloud-based platform for creating and running automated workflows that integrate your apps, data, services, and systems                |
-|  <img src="./icons/Function-Apps.svg" width="50px" />  |   `Function Apps`    |  [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) is a serverless compute service that lets you run event-triggered code without having to explicitly provision or manage infrastructure.  |
+|  <img src="./icons/firebase.png" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 <br/>
 
