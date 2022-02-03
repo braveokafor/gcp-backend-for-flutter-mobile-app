@@ -60,9 +60,19 @@
 
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/sripe.svg" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|  <img src="./icons/sripe.svg" width="50px" />       |       `Stripe (Firebase SDK`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 <br/>
+
+
+#### 📔 User Profile Management
+
+|                                                        |        Service       |                  Description                                                                                                                                                                                                           |
+| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/app_engine.png" width="50px" />       |       `App Engine`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+
+<br/>
+
 
 
 
