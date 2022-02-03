@@ -46,6 +46,34 @@
 
 <br/>
 
+
+#### 📔 User Profile Management
+
+|                                                        |        Service       |                  Description                                                                                                                                                                                                           |
+| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/firebase.png" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+
+<br/>
+
+
+#### 💵 Payments
+
+|                                                        |        Service       |                  Description                                                                                                                                                                                                           |
+| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/sripe.svg" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
 ###### `Data Lake (Raw Data)`
 
 |                                                                |          Service        |                  Description                                                                                                                                                                                       |
