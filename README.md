@@ -2,7 +2,7 @@
   <img src="./Eoghan.png" width="900px"/><br/><br/>
   Google Cloud Backend for a Flutter Mobile App.
 </h1>
-<p align="center">This is a <b>Google Cloud</b> Backend for a <b>Flutter</b> Video sharing platform.</p>
+<p align="center">This is a <b>Google Cloud</b> Backend for a <b>Mobile App</b> Video sharing platform.</p>
 
 <br/>
 <hr/>
