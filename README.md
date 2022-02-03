@@ -11,19 +11,19 @@
 
 #### 🤚 Authentication
 
-|                                                        |        Service       |                  Rationale                                                                                                                                                                                                         |
-| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/firebase.png" width="40px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|                                                        |        Service       |                  Rationale                                                                                                                                                                                  |
+| ------------------------------------------------------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/firebase.png" width="40px" />       |    `Firebase Auth`   |  [Firebase Auth](https://firebase.google.com/docs/auth/) is strongly supported by Flutter it removes the hassle of integrating authentication services. It's ideal for Agile startups and it's widely used. |
 
 <br/>
 
 
 #### 📔 User Profile Management
 
-|                                                        |        Service       |                  Rationale                                                                                                                                                                                                          |
-| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/firebase.png" width="40px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
-|  <img src="./icons/firestore.png" width="50px" />      |       `Firestore`    |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|                                                        |       Service     |                  Rationale                                                                                                                                                                           |
+| ------------------------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/firebase.png" width="40px" />       |  `Firebase Auth`  |  [Firebase Auth](https://firebase.google.com/docs/auth/admin/manage-users/) also provides profile management features to keep track of signed in users, last sign on etc.                            |
+|  <img src="./icons/firestore.png" width="50px" />      |    `Firestore`    |  [Cloud Firestore](https://firebase.google.com/docs/firestore) is a highly scalable NoSQL Database natively integrated in Firebase, it's the easiest way to store 'User generated data' on Firebase. |
 
 <br/>
 
