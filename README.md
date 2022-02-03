@@ -52,7 +52,7 @@
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/firebase.png" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
-|  <img src="./icons/firestore.png" width="50px" />       |       `Firebase`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|  <img src="./icons/firestore.png" width="50px" />      |      `Firestore`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 <br/>
 
@@ -61,27 +61,27 @@
 
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/sripe.svg" width="50px" />       |       `Stripe (Firebase SDK`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|     <img src="./icons/sripe.svg" width="50px" />       | `Stripe Firebase SDK`|  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 <br/>
 
 
-#### 📔 Video Management
+#### 📺 Video Management
 
-|                                                        |        Service       |                  Description                                                                                                                                                                                                           |
-| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/cloudstorage.png" width="50px" />     |       `Google Cloud Storage`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                              |
-|  <img src="./icons/firestore.png" width="50px" />     |       `Firestore`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
-|  <img src="./icons/firefunctions.png" width="50px" />     |       `Firebase Functions/ Cloud Functions`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                              |
+|                                                        |                  Service               |                  Description                                                                                                                                                                                                           |
+| ------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/cloudstorage.png" width="50px" />   |         `Google Cloud Storage`         |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                              |
+|   <img src="./icons/firestore.png" width="50px" />     |               `Firestore`              |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+| <img src="./icons/firefunctions.png" width="50px" />   |  `Firebase Functions/ Cloud Functions` |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                              |
 
 <br/>
 
 
-#### 📔 Admin Dashboard
+#### 👀 Admin Dashboard
 
-|                                                        |        Service       |                  Description                                                                                                                                                                                                           |
-| ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="./icons/cloudstorage.png" width="50px" />     |       `Google Cloud Storage`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                              |
-|  <img src="./icons/firestore.png" width="50px" />     |       `Firestore`     |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
+|                                                        |         Service         |                  Description                                                                                                                                                                                                           |
+| ------------------------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/cloudstorage.png" width="50px" />   |  `Google Cloud Storage` |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                              |
+|   <img src="./icons/firestore.png" width="50px" />     |        `Firestore`      |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
 
 
