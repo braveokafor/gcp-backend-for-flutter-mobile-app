@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="./Eoghan.png" width="900px"/><br/><br/>
-  Azure Data Lake ETL Pipeline
+  Google Cloud backend for a Flutter Mobile App.
 </h1>
-<p align="center">This is a <b>Big Data</b> Enterprise ETL Pipeline desinged for <b>Azure Data Lake</b></p>
+<p align="center">This is a <b>Google Cloud</b> Backend for a <b>Flutter</b> Video sharing platform.</p>
 
 <br/>
 <hr/>
