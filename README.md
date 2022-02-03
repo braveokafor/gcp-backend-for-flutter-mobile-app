@@ -40,11 +40,6 @@
 
 ##### 🛠 Services Used
 
-<br/> 
-
-###### `Data Ingestion`
-
-
 |                                                        |        Service       |                  Description                                                                                                                                                                                                           |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/Data-Factory.svg" width="50px" />   | `Azure Data Factory` |  [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/) is Azure's cloud ETL service for scale-out serverless data integration and data transformation.                                                            |
