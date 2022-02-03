@@ -32,7 +32,7 @@
 
 |                                                        |        Service       |                  Rationale                                                                                                                                                                                                             |
 | ------------------------------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     <img src="./icons/stripe.png" width="50px" />      | `Stripe Firebase SDK`|  [Stripe Firebase SDK](https://firebase.google.com/products/extensions/stripe-firestore-stripe-payments) enables users to sign-up for your digital goods and paid content with Stripe Checkout and manage their subscriptions with the Stripe customer portal. It syncs customers' subscription status with your Cloud Firestore and adds custom claims using Firebase Authentication for convenient access control in your application. |
+|     <img src="./icons/stripe.png" width="100px" />      | `Stripe Firebase SDK`|  [Stripe Firebase SDK](https://firebase.google.com/products/extensions/stripe-firestore-stripe-payments) enables users to sign-up for your digital goods and paid content with Stripe Checkout and manage their subscriptions with the Stripe customer portal. It syncs customers' subscription status with your Cloud Firestore and adds custom claims using Firebase Authentication for convenient access control in your application. |
 <br/>
 
 
