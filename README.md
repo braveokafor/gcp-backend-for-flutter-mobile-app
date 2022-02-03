@@ -12,8 +12,6 @@
 <br/>
 <hr/>
 
-## <p align="center"> 📄 Details</p>
-
 #### 🤚 Authentication
 
 |                                                        |        Service       |                  Rationale                                                                                                                                                                                                         |
