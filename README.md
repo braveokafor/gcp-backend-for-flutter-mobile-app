@@ -40,9 +40,9 @@
 
 |                                                        |                  Service               |                  Rationale                                                                                                                                                                                                             |
 | ------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="./icons/cloud_storage.png" width="50px" />   |         `Google Cloud Storage`         |  [Google Cloud Storage](https://cloud.google.com/storage/docs) is Google Clouds' petabyte scale Blob Storage offering. It has a 99.95% availability SLA, it is highly scalable, it is supporrted by most Mobile App development tools including Exo player, Firebase and Flutter. |
-|   <img src="./icons/firestore.png" width="50px" />     |            `Cloud Firestore`           |  [Cloud Firestore](https://firebase.google.com/docs/firestore) is also ideal for storing Video metadata.  |
-| <img src="./icons/cloud_functions.png" width="50px" /> |     `Cloud Functions for Firebase`     |  [Cloud Functions for Firebase](https://firebase.google.com/docs/functions)  is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. It's ideal for video preprocessing, thumbnail extraction, video compression etc. |
+| <img src="./icons/cloud_storage.png" width="150px" />   |         `Google Cloud Storage`         |  [Google Cloud Storage](https://cloud.google.com/storage/docs) is Google Clouds' petabyte scale Blob Storage offering. It has a 99.95% availability SLA, it is highly scalable, it is supporrted by most Mobile App development tools including Exo player, Firebase and Flutter. |
+|   <img src="./icons/firestore.png" width="150px" />     |            `Cloud Firestore`           |  [Cloud Firestore](https://firebase.google.com/docs/firestore) is also ideal for storing Video metadata.  |
+| <img src="./icons/cloud_functions.png" width="150px" /> |     `Cloud Functions for Firebase`     |  [Cloud Functions for Firebase](https://firebase.google.com/docs/functions)  is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. It's ideal for video preprocessing, thumbnail extraction, video compression etc. |
 
 <br/>
 
@@ -51,7 +51,7 @@
 
 |                                                        |         Service         |                  Rationale                                                                                                                                                                                                             |
 | ------------------------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   <img src="./icons/app_engine.png" width="50px" />    |    `Google App Engine`  |  [Google App Engine](https://cloud.google.com/appengine/docs) is a fully managed, serverless platform for developing and hosting web applications at scale. It supports several popular languages, libraries, and frameworks and handles server provisioning. It's ideal for creating a Dashboard to display metrics and it integrates with all the aforementioned services. |
+|   <img src="./icons/app_engine.png" width="150px" />    |    `Google App Engine`  |  [Google App Engine](https://cloud.google.com/appengine/docs) is a fully managed, serverless platform for developing and hosting web applications at scale. It supports several popular languages, libraries, and frameworks and handles server provisioning. It's ideal for creating a Dashboard to display metrics and it integrates with all the aforementioned services. |
 
 
 
