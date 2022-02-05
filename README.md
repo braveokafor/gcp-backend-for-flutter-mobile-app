@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./Eoghan2.png" width="900px"/><br/>
+  <img src="./Eoghan.png" width="900px"/><br/>
   Google Cloud Backend for a Flutter Mobile App.
 </h1>
 <p align="center">This is a <b>Google Cloud</b> Backend for a <b>Mobile App</b> Video sharing platform.</p>
@@ -62,6 +62,6 @@
 |                                                        |                  Service               |                  Rationale                                                                                                                                                                                                             |
 | ------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="./icons/firebase-cloud-messaging.png" width="150px" />   |      `Firebase Cloud Messaging`       |  [Firebase Cloud Messaging](https://cloud.google.com/storage/docs) Firebase Cloud Messaging (FCM) offers a broad range of messaging options and capabilities, including push notifications. It's completely free, it's very reliable and it supports both IOS and Android. |
-| <img src="./icons/cloud_functions.png" width="150px" /> |    `Cloud Functions for Firebase`     |  [Cloud Functions for Firebase](https://firebase.google.com/docs/functions)  is ideal for writing custom code to initiate push notificatins in response to events or based on scheduled cron jobs. |
+| <img src="./icons/cloud_functions.png" width="150px" /> |    `Cloud Functions for Firebase`     |  [Cloud Functions for Firebase](https://firebase.google.com/docs/functions)  is ideal for writing custom code to initiate push notifications in response to events or based on scheduled cron jobs. |
 
 
